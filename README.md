@@ -8,7 +8,7 @@
 
 > I am a 17 year old High school student, based in India, currently pursuing **JEE**. I love building projects on the web, tinkering with the OS and making life easier with code.
 
-- 🔭 Currently working on: **My Portfolio Website** + **Arlo-Project**
+- 🔭 Currently working on: **My Portfolio Website**, **Arlo-Project**
 - 🌱 Learning: **React**, **Next.js**, **Tailwind CSS**
 - 💼 Open for: **Freelance Web-Dev Projects**
 - `Jack of All Trades, Master of None. Oftentimes better than Master of One`
@@ -54,9 +54,14 @@
 
 ---
 
-## 🔥 Featured Projects
+## 📽 Top Projects
 
 <div align="center">
+
+| 🏗️ Project | 💬 Description | Status | 
+|---|---|---|
+| Portfolio Website | A Personal Project, to showcase my journey and achievements | 🔴 Halted | 
+| Arlo | A Discord bot built on JavaScript to moderate a community server built for Readers and Writers | 🟡 Working |
 
 </div>
 
