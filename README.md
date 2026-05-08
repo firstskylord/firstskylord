@@ -58,10 +58,10 @@
 
 <div align="center">
 
-| 🏗️ Project | 💬 Description | Status | 
-|---|---|---|
-| Portfolio Website | A Personal Project, to showcase my journey and achievements | 🔴 Halted | 
-| Arlo | A Discord bot built on JavaScript to moderate a community server built for Readers and Writers | 🟡 Working |
+| 🏗️ Project | 💬 Description |  
+|---|---|
+| Portfolio Website | A Personal Project, to showcase my journey and achievements | 
+| Arlo | A Discord bot built on JavaScript to moderate a community server built for Readers and Writers | 
 
 </div>
 
