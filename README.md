@@ -8,14 +8,20 @@
 
 > I am a 17 year old High school student, based in India, currently pursuing **JEE**. I love building projects on the web, tinkering with the OS and making life easier with code.
 
-- 🔭 Currently working on: **My Portfolio Website**, **Arlo-Project**
-- 🌱 Learning: **React**, **Next.js**, **Tailwind CSS**
+- 
+- 
 - 💼 Open for: **Freelance Web-Dev Projects**
 - `Jack of All Trades, Master of None. Oftentimes better than Master of One`
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Current Focus
+- 🔭 **Working on:** **My Portfolio Website**, **Arlo-Project**
+- 🧠 **Learning:** React, Next.js, Tailwind CSS
+
+---
+
+## ⚙ Tech Stack
 
 <div align="center">
 
@@ -67,7 +73,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 💼 Let's Work Together!
 
 <div align="center">
   
