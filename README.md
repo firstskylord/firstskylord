@@ -1,23 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B0E4CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arul+%F0%9F%91%8B;Full-Stack+Developer;Discord+Bot+Creator;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B0E4CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arul+%F0%9F%91%8B;Frontend+Developer;Discord+Bot+Creator;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-> I am a 17 year old High school student, based in India, currently pursuing **JEE**. I love building projects on the web, tinkering with the OS and making life easier with code.
+> I am a `17 year old` High school student, Based in `🌏 India`, currently `pursuing JEE`. </br>
+> I love building projects on the web, tinkering with the OS and making life easier with code.
 
-- 
-- 
-- 💼 Open for: **Freelance Web-Dev Projects**
-- `Jack of All Trades, Master of None. Oftentimes better than Master of One`
+`Jack of All Trades, Master of None. Oftentimes better than Master of One`
 
 ---
 
 ## ⚡ Current Focus
 - 🔭 **Working on:** **My Portfolio Website**, **Arlo-Project**
 - 🧠 **Learning:** React, Next.js, Tailwind CSS
+- 💼 **Open for:** Freelance Web-Dev Projects
 
 ---
 
