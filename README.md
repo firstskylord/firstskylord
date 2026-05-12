@@ -14,7 +14,7 @@
 ---
 
 ## ⚡ Current Focus
-- 🔭 **Working on:** **My Portfolio Website**, **Arlo-Project**
+- 🔭 **Working on:** My Portfolio Website, Arlo-Project
 - 🧠 **Learning:** React, Next.js, Tailwind CSS
 - 💼 **Open for:** Freelance Web-Dev Projects
 
@@ -79,7 +79,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novarul54/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-novarul54@gmail.com-B0E4CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novarul54@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-@novarul71-408A71?style=for-the-badge&logo=discord&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-novarul54@gmail.com-408A71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novarul54@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-@novarul71-B0E4CC?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
