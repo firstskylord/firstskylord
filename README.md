@@ -1,12 +1,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B0E4CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arul+%F0%9F%91%8B;Frontend+Developer;Discord+Bot+Creator;Open+Source+Enthusiast" alt="Typing SVG" />
+
+  ![](https://komarev.com/ghpvc/?username=firstskylord&color=408A71&style=for-the-badge)
 </div>
 
 ---
 
 ## 🚀 About Me
 
-> I am a `17 year old` High school student, Based in `🌏 India`, currently `pursuing JEE`. </br>
+> I am a `17 year old` Undergrad student, Based in `🌏 India`, currently `pursuing Computer Science Engineering`. </br>
 > I love building projects on the web, tinkering with the OS and making life easier with code.
 
 `Jack of All Trades, Master of None. Oftentimes better than Master of One`
@@ -14,7 +16,7 @@
 ---
 
 ## ⚡ Current Focus
-- 🔭 **Working on:** My Portfolio Website, Arlo-Project
+- 🔭 **Working on:** My Portfolio Website
 - 🧠 **Learning:** React, Next.js, Tailwind CSS
 - 💼 **Open for:** Freelance Web-Dev Projects
 
@@ -45,16 +47,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=firstskylord&theme=gotham&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170"/>
-
-  ![](https://komarev.com/ghpvc/?username=firstskylord&color=408A71&style=for-the-badge)
 </div>
 
 ---
