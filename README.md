@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-> I am a `17 year old` Undergrad student, Based in `🌏 India`, currently `pursuing Computer Science Engineering`. </br>
+> I am a `17 year old` Undergrad student, Based in `🌏 India`, currently pursuing `Computer Science Engineering`. </br>
 > I love building projects on the web, tinkering with the OS and making life easier with code.
 
 `Jack of All Trades, Master of None. Oftentimes better than Master of One`
@@ -28,10 +28,10 @@
 
 ### **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Frameworks & Libraries**
 
@@ -72,7 +72,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B0E4CC?style=for-the-badge)](https://www.linkedin.com/in/novarul54/)
 [![Email](https://img.shields.io/badge/Email-novarul54@gmail.com-408A71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novarul54@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-@novarul71-B0E4CC?style=for-the-badge&logo=discord&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-@nova.rul-408A71?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nova.rul/)
+[![Instagram](https://img.shields.io/badge/Instagram-@nova.rul-408A71?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Cal](https://img.shields.io/badge/novarul-B0E4CC?style=for-the-badge&logo=caldotcom&logoColor=black)](https://cal.com/novarul)
 
 </div>
