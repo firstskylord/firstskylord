@@ -11,14 +11,7 @@
 > I am a `17 year old` Undergrad student, Based in `🌏 India`, currently pursuing `Computer Science Engineering`. </br>
 > I love building projects on the web, tinkering with the OS and making life easier with code.
 
-`Jack of All Trades, Master of None. Oftentimes better than Master of One`
-
----
-
-## ⚡ Current Focus
-- 🔭 **Working on:** My Portfolio Website
-- 🧠 **Learning:** React, Next.js, Tailwind CSS
-- 💼 **Open for:** Freelance Web-Dev Projects
+`Jack of All Trades, Master of None. Oftentimes better than Master of One.`
 
 ---
 
