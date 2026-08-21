@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B0E4CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arul+%F0%9F%91%8B;Frontend+Developer;Discord+Bot+Creator;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B0E4CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ajitesh+%F0%9F%91%8B;Frontend+Developer;Discord+Bot+Creator;Open+Source+Enthusiast" alt="Typing SVG" />
 
   ![](https://komarev.com/ghpvc/?username=firstskylord&color=408A71&style=for-the-badge)
 </div>
