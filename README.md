@@ -66,6 +66,6 @@
 [![Email](https://img.shields.io/badge/Email-novarul54@gmail.com-408A71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novarul54@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-@novarul71-B0E4CC?style=for-the-badge&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-@nova.rul-408A71?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Cal](https://img.shields.io/badge/novarul-B0E4CC?style=for-the-badge&logo=caldotcom&logoColor=black)](https://cal.com/ajiteshgo)
+[![Cal](https://img.shields.io/badge/ajiteshgo-B0E4CC?style=for-the-badge&logo=caldotcom&logoColor=black)](https://cal.com/ajiteshgo)
 
 </div>
