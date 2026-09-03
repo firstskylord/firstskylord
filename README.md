@@ -64,8 +64,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-408A71?style=for-the-badge&logo=ghostfolio&logoColor=white)](https://ajiteshgo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B0E4CC?style=for-the-badge)](https://www.linkedin.com/in/ajiteshgo/)
 [![Email](https://img.shields.io/badge/Email-novarul54@gmail.com-408A71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novarul54@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-@novarul71-B0E4CC?style=for-the-badge&logo=discord&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-@ajiteshgo-408A71?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-@ajiteshgo-408A71?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajiteshgo/)
 [![Cal](https://img.shields.io/badge/ajiteshgo-B0E4CC?style=for-the-badge&logo=caldotcom&logoColor=black)](https://cal.com/ajiteshgo)
 
 </div>
