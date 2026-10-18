@@ -50,6 +50,7 @@
 
 | 🏗️ Project | 💬 Description |  
 |---|---|
+| Lead Tracker | An chrome extension, which let's the user to track their potential clients | 
 | Portfolio Website | A Personal Project, to showcase my journey and achievements | 
 | Arlo | A Discord bot built on JavaScript to moderate a community server built for Readers and Writers | 
 
